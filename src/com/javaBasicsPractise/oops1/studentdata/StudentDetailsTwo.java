@@ -6,6 +6,7 @@ public class StudentDetailsTwo {
     public static void main(String[] args) {
         StudentDetailsTwo details = new StudentDetailsTwo();
         details.mobile = 988013892;
+        details.name = "Ajay Dev"
         System.out.println(details.mobile);
     }
 }
