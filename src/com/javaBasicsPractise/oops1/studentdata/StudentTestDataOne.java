@@ -6,6 +6,7 @@ public class StudentTestDataOne {
 
     public static void main(String[] args) {
         StudentTestDataOne testDataOne = new StudentTestDataOne();
-//        testDataOne.name
+        testDataOne.name = "Arun";
+        System.out.println(testDataOne.name);
     }
 }
